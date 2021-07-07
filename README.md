@@ -12,11 +12,11 @@ I am also an avid photographer, and I am currently spending my free time buildin
   
 <h2> GitHub Stats </h2>  
 <a href="https://github.com/riyadhar8/riyadhar8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhar8&hide=makefile&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhar8&hide=makefile&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Riya's GitHub Stats" />
 </a>
   
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadhar8&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+<a href="https://github.com/riyadhar8/riyadhar8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadhar8&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Riya's GitHub Stats" />
 </a>  
    
   
